@@ -29,4 +29,16 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/AbdulRaffayQureshi/Apple-Vision-Pro.git
+   
+2. Navigate to the project directory:
+bash
+cd apple-vision-pro-clone
+
+3. Open index.html in your web browser to view the project.
+
+Usage
+Simply scroll through the page to experience the smooth animations and interactions that mimic the original Apple Vision Pro interface.
+
+Acknowledgments
+Special thanks to the creators of GSAP and LocomotiveJS for providing such powerful tools that made this project possible.
